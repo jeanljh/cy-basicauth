@@ -1,0 +1,31 @@
+[ {
+  "uid" : "44ba242e52534fad",
+  "name" : "Method 3",
+  "time" : {
+    "start" : 1650514546740,
+    "stop" : 1650514547060,
+    "duration" : 320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d92da93373d7e0d4",
+  "name" : "Method 2",
+  "time" : {
+    "start" : 1650514546460,
+    "stop" : 1650514546717,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8c581d05819f95a",
+  "name" : "Method 1",
+  "time" : {
+    "start" : 1650514545548,
+    "stop" : 1650514546447,
+    "duration" : 899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
