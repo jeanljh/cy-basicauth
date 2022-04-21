@@ -1,30 +1,30 @@
 [ {
-  "uid" : "44ba242e52534fad",
-  "name" : "Method 3",
-  "time" : {
-    "start" : 1650514546740,
-    "stop" : 1650514547060,
-    "duration" : 320
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b8c581d05819f95a",
+  "uid" : "cb0e8de15825a844",
   "name" : "Method 1",
   "time" : {
-    "start" : 1650514545548,
-    "stop" : 1650514546447,
-    "duration" : 899
+    "start" : 1650516067269,
+    "stop" : 1650516068380,
+    "duration" : 1111
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d92da93373d7e0d4",
+  "uid" : "496e46c9c1ee957c",
+  "name" : "Method 3",
+  "time" : {
+    "start" : 1650516068715,
+    "stop" : 1650516069077,
+    "duration" : 362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2bb1e3c97c82beb",
   "name" : "Method 2",
   "time" : {
-    "start" : 1650514546460,
-    "stop" : 1650514546717,
-    "duration" : 257
+    "start" : 1650516068392,
+    "stop" : 1650516068698,
+    "duration" : 306
   },
   "status" : "passed",
   "severity" : "normal"
