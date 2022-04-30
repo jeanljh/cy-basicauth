@@ -1,12 +1,12 @@
 {
-  "uid" : "edab4732f916c92b",
+  "uid" : "53836d28d9dc5480",
   "name" : "Method 3",
   "fullName" : "Method 3",
   "historyId" : "515906d9b82f35610fd741214275ff0e",
   "time" : {
-    "start" : 1650516115304,
-    "stop" : 1650516115573,
-    "duration" : 269
+    "start" : 1651302785354,
+    "stop" : 1651302785544,
+    "duration" : 190
   },
   "status" : "passed",
   "flaky" : false,
@@ -21,9 +21,9 @@
     "steps" : [ {
       "name" : "GET 200 /basic_auth",
       "time" : {
-        "start" : 1650516115366,
-        "stop" : 1650516115393,
-        "duration" : 27
+        "start" : 1651302785403,
+        "stop" : 1651302785433,
+        "duration" : 30
       },
       "status" : "passed",
       "steps" : [ ],
@@ -36,8 +36,8 @@
     }, {
       "name" : "its .requestHeaders.authorization",
       "time" : {
-        "start" : 1650516115393,
-        "stop" : 1650516115398,
+        "start" : 1651302785433,
+        "stop" : 1651302785438,
         "duration" : 5
       },
       "status" : "passed",
@@ -51,9 +51,9 @@
     }, {
       "name" : "visit https://the-internet.herokuapp.com/basic_auth",
       "time" : {
-        "start" : 1650516115399,
-        "stop" : 1650516115572,
-        "duration" : 173
+        "start" : 1651302785439,
+        "stop" : 1651302785543,
+        "duration" : 104
       },
       "status" : "passed",
       "steps" : [ ],
@@ -64,10 +64,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "GET https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https://the-internet.herokuapp.com/basic_auth&u=oeu1650516115529r0.1067101831174262&wxhr=true&t=1650516115532&f=298349752,318188263",
+      "name" : "GET https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https://the-internet.herokuapp.com/basic_auth&u=oeu1651302785518r0.9045257947638834&wxhr=true&t=1651302785521&f=298349752,318188263",
       "time" : {
-        "start" : 1650516115572,
-        "stop" : 1650516115572,
+        "start" : 1651302785543,
+        "stop" : 1651302785543,
         "duration" : 0
       },
       "status" : "passed",
@@ -101,6 +101,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "edab4732f916c92b.json",
+  "source" : "53836d28d9dc5480.json",
   "parameterValues" : [ ]
 }
