@@ -2,13 +2,13 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
     "name" : "Method 3",
-    "uid" : "53836d28d9dc5480",
+    "uid" : "6be0c424f801e28d",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1651302785354,
-      "stop" : 1651302785544,
-      "duration" : 190
+      "start" : 1652235370774,
+      "stop" : 1652235371129,
+      "duration" : 355
     },
     "flaky" : false,
     "newFailed" : false,
@@ -19,13 +19,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Method 2",
-    "uid" : "b4747d5e1e4e923f",
+    "uid" : "666651b2563e5a6d",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1651302785133,
-      "stop" : 1651302785341,
-      "duration" : 208
+      "start" : 1652235370463,
+      "stop" : 1652235370768,
+      "duration" : 305
     },
     "flaky" : false,
     "newFailed" : false,
@@ -36,13 +36,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Method 1",
-    "uid" : "b82c41a4297e0804",
+    "uid" : "2743d34b5a480ec8",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1651302784527,
-      "stop" : 1651302785125,
-      "duration" : 598
+      "start" : 1652235369453,
+      "stop" : 1652235370450,
+      "duration" : 997
     },
     "flaky" : false,
     "newFailed" : false,

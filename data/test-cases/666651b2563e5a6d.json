@@ -1,12 +1,12 @@
 {
-  "uid" : "b4747d5e1e4e923f",
+  "uid" : "666651b2563e5a6d",
   "name" : "Method 2",
   "fullName" : "Method 2",
   "historyId" : "b86fb9e8934136d5437dc71d6ab91381",
   "time" : {
-    "start" : 1651302785133,
-    "stop" : 1651302785341,
-    "duration" : 208
+    "start" : 1652235370463,
+    "stop" : 1652235370768,
+    "duration" : 305
   },
   "status" : "passed",
   "flaky" : false,
@@ -21,9 +21,9 @@
     "steps" : [ {
       "name" : "visit https://the-internet.herokuapp.com/basic_auth",
       "time" : {
-        "start" : 1651302785181,
-        "stop" : 1651302785341,
-        "duration" : 160
+        "start" : 1652235370522,
+        "stop" : 1652235370768,
+        "duration" : 246
       },
       "status" : "passed",
       "steps" : [ ],
@@ -34,10 +34,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "GET https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https://the-internet.herokuapp.com/basic_auth&u=oeu1651302785284r0.31797459421001206&wxhr=true&t=1651302785287&f=298349752,318188263",
+      "name" : "GET https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https://the-internet.herokuapp.com/basic_auth&u=oeu1652235370718r0.6776194250646559&wxhr=true&t=1652235370721&f=298349752,318188263",
       "time" : {
-        "start" : 1651302785341,
-        "stop" : 1651302785341,
+        "start" : 1652235370767,
+        "stop" : 1652235370767,
         "duration" : 0
       },
       "status" : "passed",
@@ -71,6 +71,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b4747d5e1e4e923f.json",
+  "source" : "666651b2563e5a6d.json",
   "parameterValues" : [ ]
 }
