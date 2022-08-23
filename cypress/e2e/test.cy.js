@@ -1,4 +1,5 @@
 /// <reference types='cypress'/>
+const { _ } = Cypress
 
 it('Method 1', () => {
     cy.visit('https://admin:admin@the-internet.herokuapp.com/basic_auth', {
